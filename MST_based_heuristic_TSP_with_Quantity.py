@@ -2,7 +2,7 @@
 """
 Created on Sun Dec 10 16:26:31 2017
 
-@author: haridut2
+@author: haridut_athi
 """
 ''' A TSP Problem for a warehouse for pick/place operation'''
 ''' Given: Order with Quantity, Distances, Location of each material in warehouse

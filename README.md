@@ -1,6 +1,10 @@
-# Route-Optimization-for-place-pick-operation-in-warehouse
+## Route-Optimization-for-place-pick-operation-in-warehouse
 
+<<<<<<< HEAD
 The repository contains my code for route optimization heuristics developed to solve the problem of routing for pick/place operations in a warehouse
+=======
+The repository contains my code, report and presentation for route optimization heuristics developed to solve the problem of routing for pick/place operations in a warehouse
+>>>>>>> 240fb502b13cc8ab2ca00ebba58e8c9850851866
 
 Input:  Distance from one location (SKU location) to another
         Possible locations of each SKU
